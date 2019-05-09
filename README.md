@@ -6,32 +6,30 @@ teknoloji eğitimi paketleri,tasarlayıp eğitimleri vermekte,outdoor sinema eki
 
 ### Ne iş yaparız
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Odağımızda proglem çözmek var.
 
 ```markdown
-Syntax highlighted code block
+Üzerinde çalıştığımız projeler 
 
-# Header 1
-## Header 2
-### Header 3
+# Eding
+  Eğitim kiti
+## Azog
+   Kamera taşıyıcı robot kol
+### pi-eksen
+ 3B yazıcı ve PCB kazıcı 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
 
-### Jekyll Themes
+### Sosyal Ağlar
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fapatech/fapatech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Web](http://fapatech.com/)
 
-### Support or Contact
+### Dükkan
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+zafer teknopark.Afyonkarahisar
+0543 396 0576
+
+
