@@ -12,9 +12,9 @@ Odağımızda proglem çözmek var.
 Üzerinde çalıştığımız projeler 
 
 # Eding
-  Eğitim kiti
+ Eğitim kiti
 ## Azog
-   Kamera taşıyıcı robot kol
+ Kamera taşıyıcı robot kol
 ### pi-eksen
  3B yazıcı ve PCB kazıcı 
 
