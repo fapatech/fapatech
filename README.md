@@ -1,12 +1,12 @@
-## GitHub sayfamıza hoş geldiniz
+## GitHub sayfamıza hoş geldiniz.
 
 
-Fapa tech zafer teknopark bünyesinde önkuluçka sürecinde  bulunan eğitim teknolojilerine AR-GE yapar.
-teknoloji eğitimi paketleri,tasarlayıp eğitimleri vermekte,outdoor sinema ekipmanı yapan bir kuruluştur.
+Fapatech zafer teknopark bünyesinde ön kuluçka sürecinde  bulunan eğitim teknolojilerine AR-GE yapar.
+Teknoloji eğitimi paketleri tasarlayıp eğitimleri vermekte olup outdoor sinema ekipmanı yapan bir kuruluştur.
 
-### Ne iş yaparız
+### Ne iş yaparız?
 
-Odağımızda proglem çözmek var.
+Odağımızda problem çözmek var.
 
 ```markdown
 Üzerinde çalıştığımız projeler 
@@ -29,7 +29,7 @@ Odağımızda proglem çözmek var.
 
 ### Dükkan
 
-zafer teknopark.Afyonkarahisar
+Zafer teknopark/Afyonkarahisar
 0543 396 0576
 
 
