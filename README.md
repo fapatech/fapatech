@@ -1,7 +1,7 @@
 ## GitHub sayfamıza hoş geldiniz.
 
 
-Fapatech zafer teknopark bünyesinde ön kuluçka sürecinde  bulunan eğitim teknolojilerine AR-GE yapar.
+Fapatech Zafer teknopark bünyesinde ön kuluçka sürecinde  bulunan eğitim teknolojilerine AR-GE yapar.
 Teknoloji eğitimi paketleri tasarlayıp eğitimleri vermekte olup outdoor sinema ekipmanı yapan bir kuruluştur.
 
 ### Ne iş yaparız?
