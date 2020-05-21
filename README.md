@@ -1,8 +1,8 @@
 ## GitHub sayfamıza hoş geldiniz.
 
 
-Fapatech Zafer teknopark bünyesinde ön kuluçka sürecinde  bulunan eğitim teknolojilerine AR-GE yapar.
-Teknoloji eğitimi paketleri tasarlayıp eğitimleri vermekte olup outdoor sinema ekipmanı yapan bir kuruluştur.
+Fapatech eğitim teknolojileri alanında AR-GE yapan bir teknoloji girişimidir.
+Teknoloji eğitimi paketleri tasarlayıp eğitimleri vermektekle birlikte,outdoor sinema ekipmanı yapan bir kuruluştur.
 
 ### Ne iş yaparız?
 
