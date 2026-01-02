@@ -2,76 +2,49 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fapatech | Elektronik & Kodlama</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="favicon.ico">
+    <title>Fapatech | Elektronik & Robotik</title>
 </head>
-<body>
-    <!-- HEADER -->
-    <header>
-        <div class="container">
-            <h1 class="logo">Fapatech</h1>
-            <nav>
-                <a href="#about">Hakkımızda</a>
-                <a href="#products">Ürünler</a>
-                <a href="#contact">İletişim</a>
-            </nav>
-        </div>
-    </header>
+<body style="font-family: Arial, sans-serif; background:#f4f4f4; margin:0; padding:0;">
 
-    <!-- HERO -->
-    <section class="hero">
-        <div class="hero-text">
-            <h2>Elektronik, Robotik & Kodlama Çözümleri</h2>
-            <p>İstanbul Maltepe merkezli elektronik ürünler ve komponent satışı.</p>
-            <a href="#products" class="btn">Ürünlerimize Göz At</a>
-        </div>
-    </section>
+    <div style="background:#111; color:white; padding:20px; text-align:center;">
+        <h1>FAPATECH</h1>
+        <p>Elektronik • Robotik • Kodlama</p>
+    </div>
 
-    <!-- ABOUT -->
-    <section id="about" class="about container">
-        <h2>Biz Kimiz?</h2>
-        <p>Fapatech olarak robotik, kodlama, elektronik ve komponent satışı ile eğitim ve üretim odaklı çözümler sunuyoruz. <br>
-           İster hobi ister profesyonel; her seviyeye uygun ürün ve destek ile yanınızdayız.</p>
-    </section>
+    <div style="padding:20px; max-width:900px; margin:auto; background:white;">
 
-    <!-- PRODUCTS -->
-    <section id="products" class="products container">
-        <h2>Ürünler & Komponentler</h2>
-        <div class="product-grid">
-            <div class="product-card">
-                <h3>Elektronik Modüller</h3>
-                <p>Arduino, sensörler, kablolar, adaptörler ve daha fazlası.</p>
-            </div>
-            <div class="product-card">
-                <h3>Robotik Kitler</h3>
-                <p>Öğrenme ve geliştirme için robotik kit setleri.</p>
-            </div>
-            <div class="product-card">
-                <h3>Özel Tasarım</h3>
-                <p>Özel projeleriniz için tasarım & üretim desteği.</p>
-            </div>
-        </div>
-    </section>
+        <h2>Hakkımızda</h2>
+        <p>
+            Fapatech, İstanbul Maltepe merkezli bir teknoloji girişimidir.  
+            Elektronik, robotik ve kodlama alanlarında ürün satışı ve teknik çözümler sunar.
+        </p>
 
-    <!-- CONTACT -->
-    <section id="contact" class="contact container">
+        <h2>Ürün Gruplarımız</h2>
+        <ul>
+            <li>Elektronik Komponentler</li>
+            <li>Robotik Eğitim Setleri</li>
+            <li>Arduino & Gömülü Sistem Ürünleri</li>
+            <li>Özel Proje ve Üretim Çözümleri</li>
+        </ul>
+
         <h2>İletişim</h2>
-        <p>📍 İstanbul, Maltepe</p>
-        <p>🌐 Web: <a href="https://fapatech.com" target="_blank">fapatech.com</a></p>
-        <div class="socials">
-            <a href="https://x.com/fapatechC" target="_blank">X (Twitter)</a>
-            <a href="https://www.instagram.com/fapatech.robotik.kodlama/" target="_blank">Instagram</a>
-            <a href="https://www.youtube.com/@fapatechcom/featured" target="_blank">YouTube</a>
-            <a href="https://www.linkedin.com/company/fapatech/" target="_blank">LinkedIn</a>
-            <a href="https://www.facebook.com/fapatechlab/" target="_blank">Facebook</a>
-        </div>
-    </section>
+        <p><strong>Adres:</strong> İstanbul / Maltepe</p>
+        <p><strong>Web:</strong> <a href="https://fapatech.com" target="_blank">https://fapatech.com</a></p>
 
-    <!-- FOOTER -->
-    <footer>
-        <p>© 2026 Fapatech - Tüm Hakları Saklıdır.</p>
-    </footer>
+        <h3>Sosyal Medya</h3>
+        <ul>
+            <li><a href="https://x.com/fapatechC" target="_blank">X (Twitter)</a></li>
+            <li><a href="https://www.instagram.com/fapatech.robotik.kodlama/" target="_blank">Instagram</a></li>
+            <li><a href="https://www.youtube.com/@fapatechcom/featured" target="_blank">YouTube</a></li>
+            <li><a href="https://www.linkedin.com/company/fapatech/" target="_blank">LinkedIn</a></li>
+            <li><a href="https://www.facebook.com/fapatechlab/" target="_blank">Facebook</a></li>
+        </ul>
+
+    </div>
+
+    <div style="background:#111; color:white; text-align:center; padding:10px;">
+        © 2026 Fapatech - Tüm Hakları Saklıdır
+    </div>
+
 </body>
 </html>
