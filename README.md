@@ -8,12 +8,12 @@
 <body style="margin:0; font-family:Arial, sans-serif; background:#111; color:#eee;">
 
     <!-- HEADER -->
-    <div style="background:#b30000; padding:20px; text-align:center;">
+    <div style="background:#b30000; padding:25px; text-align:center;">
         <img src="https://fapatech.com/wp-content/uploads/2023/06/fapa_logo.png"
              alt="Fapatech Logo"
-             style="max-width:200px; margin-bottom:10px;">
-        <h1 style="margin:0; color:white;">FAPATECH</h1>
-        <p style="margin:5px 0 0;">Elektronik • Robotik • Kodlama</p>
+             style="max-width:180px; display:block; margin:auto;">
+        <h1 style="margin:10px 0 5px;">FAPATECH</h1>
+        <p style="margin:0;">Elektronik • Robotik • Kodlama</p>
     </div>
 
     <!-- CONTENT -->
@@ -22,7 +22,7 @@
         <h2 style="color:#ff4444;">Hakkımızda</h2>
         <p>
             Fapatech, İstanbul Maltepe merkezli bir teknoloji girişimidir.
-            Elektronik, robotik ve kodlama alanlarında ürün satışı ve teknik çözümler sunar.
+            Elektronik, robotik ve kodlama alanlarında ürün ve çözümler sunar.
         </p>
 
         <h2 style="color:#ff4444;">Ürün Gruplarımız</h2>
@@ -37,14 +37,25 @@
         <p><strong>Adres:</strong> İstanbul / Maltepe</p>
         <p><strong>Web:</strong> <a href="https://fapatech.com" style="color:#ff4444;">fapatech.com</a></p>
 
-        <h3 style="color:#ff4444;">Sosyal Medya</h3>
-        <ul>
-            <li><a style="color:#fff;" href="https://x.com/fapatechC" target="_blank">X (Twitter)</a></li>
-            <li><a style="color:#fff;" href="https://www.instagram.com/fapatech.robotik.kodlama/" target="_blank">Instagram</a></li>
-            <li><a style="color:#fff;" href="https://www.youtube.com/@fapatechcom/featured" target="_blank">YouTube</a></li>
-            <li><a style="color:#fff;" href="https://www.linkedin.com/company/fapatech/" target="_blank">LinkedIn</a></li>
-            <li><a style="color:#fff;" href="https://www.facebook.com/fapatechlab/" target="_blank">Facebook</a></li>
-        </ul>
+        <h3 style="color:#ff4444;">Bizi Takip Edin</h3>
+
+        <div style="display:flex; gap:15px; align-items:center; flex-wrap:wrap;">
+            <a href="https://x.com/fapatechC" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="32" alt="X">
+            </a>
+            <a href="https://www.instagram.com/fapatech.robotik.kodlama/" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" alt="Instagram">
+            </a>
+            <a href="https://www.youtube.com/@fapatechcom/featured" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="32" alt="YouTube">
+            </a>
+            <a href="https://www.linkedin.com/company/fapatech/" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn">
+            </a>
+            <a href="https://www.facebook.com/fapatechlab/" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="32" alt="Facebook">
+            </a>
+        </div>
 
     </div>
 
