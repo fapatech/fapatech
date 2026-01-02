@@ -8,7 +8,10 @@
 <body style="margin:0; font-family:Arial, sans-serif; background:#111; color:#eee;">
 
     <!-- HEADER -->
-    <div style="background:#b30000; padding:25px; text-align:center;">
+    <div style="background:#b30000; padding:20px; text-align:center;">
+        <img src="https://fapatech.com/wp-content/uploads/2023/06/fapa_logo.png"
+             alt="Fapatech Logo"
+             style="max-width:200px; margin-bottom:10px;">
         <h1 style="margin:0; color:white;">FAPATECH</h1>
         <p style="margin:5px 0 0;">Elektronik • Robotik • Kodlama</p>
     </div>
